@@ -1,3 +1,6 @@
 "Newtons thid law expressed as violence" - James S.A Corey, Babylons Ashes (The Expanse)
 
-My favorite tech stack is java because its the only one i am comfortable with.
+My favorite tech stack is java because its the only one i am comfortable with. 
+
+
+making conflict changes
